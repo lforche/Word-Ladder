@@ -1,0 +1,13 @@
+﻿  WordLadder.cpp
+C:\Users\linds\source\repos\WordLadder\WordLadder\WordLadder.h(94,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\WordLadder\WordLadder\WordLadder.h(131,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\WordLadder\WordLadder\WordLadder.h(133,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\WordLadder\WordLadder\WordLadder.h(180,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\WordLadder\WordLadder\WordLadder.cpp(112,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\WordLadder\WordLadder\WordLadder.cpp(134,39): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  0 of 414 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WordLadder.vcxproj -> C:\Users\linds\source\repos\WordLadder\Release\WordLadder.exe
